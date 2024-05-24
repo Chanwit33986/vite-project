@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vite-project</string>
+    <string name="title_activity_main">vite-project</string>
+    <string name="package_name">com.example.app</string>
+    <string name="custom_url_scheme">com.example.app</string>
+    <string name="facebook_app_id">649462510208526</string>
+    <string name="facebook_client_token">1daaaf1be0dbe60d7160e884abc403a0</string>
+</resources>
